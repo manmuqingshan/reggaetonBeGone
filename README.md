@@ -111,14 +111,22 @@ Pin 2 → GND
   * 🤖 Improved ML model
   * 🧱 Enclosure + full package
 
-👉 https://www.patreon.com/RoniBandini/shop/reggaeton-be-gone-version-experimental-3-860409
-
 ---
 
 ## 📚 Full Instructions
 
 * 🇬🇧 https://www.hackster.io/roni-bandini/reggaeton-be-gone-e5b6e2
 * 🇪🇸 https://www.youtube.com/watch?v=sPcHeiP9Xgg
+
+---
+
+
+## Press
+
+* Wired https://es.wired.com/articulos/reggaeton-be-gone-la-maquina-impulsada-por-ia-que-bloquea-bocinas-bluetooth-que-reproducen-regueton
+* Latinamerican Post https://latinamericanpost.com/science-technology/argentine-ai-machine-blocks-unwanted-bluetooth-reggaeton/
+* IT https://www.progettonuovavita.it/PNV_blog/2026/02/04/musica-odiosa-ad-alto-volume-dallappartamento-del-vicino-linformatica-viene-in-nostro-aiuto
+* El invento argentino para bloquear la música https://www.podiumpodcast.com/podcasts/el-faro-playser-em/episodio/3908996/
 
 ---
 
